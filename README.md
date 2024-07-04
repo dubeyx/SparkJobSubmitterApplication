@@ -13,3 +13,6 @@ Get this IP just search localhost:8080 sparkUi opens a IP will be visible like t
 
 
 Start Worker Node -> spark-class org.apache.spark.deploy.worker.Worker spark://192.168.1.24:7077
+
+
+to open spark Terminal for scala -> spark-shell --master spark://10.20.59.20:7077
